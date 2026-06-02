@@ -75,22 +75,6 @@ Provides informative content related to web development and design.
 
 Allows visitors to submit inquiries through a contact form.
 
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd your-repository-name
-```
-
-3. Open `index.html` in your browser.
-
 ## Future Improvements
 
 * Add project showcase section
@@ -108,6 +92,3 @@ Frontend Developer passionate about creating responsive, user-friendly, and mode
 
 LinkedIn: https://www.linkedin.com/in/shubhroto-dutta-a6675b328/
 
-## License
-
-This project is open-source and available for learning and personal use.
